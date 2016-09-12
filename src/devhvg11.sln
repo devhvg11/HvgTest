@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{28B0F8C9-C161-4AA1-8B01-8716C88A0DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevHvg11.Core", "DevHvg11.Core\DevHvg11.Core.csproj", "{2791AA64-5A24-4C36-85F7-FC96C0540700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevHvg11.apphb.com", "DevHvg11.apphb.com\DevHvg11.apphb.com.csproj", "{0FB765C1-1517-43A1-9911-CF8741684154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2791AA64-5A24-4C36-85F7-FC96C0540700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2791AA64-5A24-4C36-85F7-FC96C0540700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2791AA64-5A24-4C36-85F7-FC96C0540700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2791AA64-5A24-4C36-85F7-FC96C0540700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB765C1-1517-43A1-9911-CF8741684154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB765C1-1517-43A1-9911-CF8741684154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB765C1-1517-43A1-9911-CF8741684154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB765C1-1517-43A1-9911-CF8741684154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2791AA64-5A24-4C36-85F7-FC96C0540700} = {28B0F8C9-C161-4AA1-8B01-8716C88A0DDE}
+	EndGlobalSection
+EndGlobal
